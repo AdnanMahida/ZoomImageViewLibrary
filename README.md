@@ -6,7 +6,7 @@ An android library to extend Image view functionality like double tab to zoom,tw
 
 How to use
 ---
-Step 1. Add the JitPack repository to your build file. Add it in your root build.gradle at the end of repositories:
+Step 1. Add the JitPack repository to your build file. Add it in your root build.gradle(Project Level) at the end of repositories:
 ```gradle
 allprojects {
   repositories {
@@ -16,7 +16,7 @@ allprojects {
 }
 ```
 
-Step 2. Add the dependency
+Step 2. Add the dependency build.gradle(App Level)
 ```gradle
 dependencies {
      implementation 'com.github.AdnanMahida:ZoomImageViewLibrary:1.0.0'
