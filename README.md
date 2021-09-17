@@ -1,4 +1,4 @@
-# ZoomImageViewLibrary
+# ZoomImageViewLibrary [![](https://jitpack.io/v/AdnanMahida/ZoomImageViewLibrary.svg)](https://jitpack.io/#AdnanMahida/ZoomImageViewLibrary)
 An android library to extend Image view functionality like double tab to zoom,two finger zoom etc
 
 ![](Screenrecorder.gif)
@@ -19,9 +19,10 @@ allprojects {
 Step 2. Add the dependency build.gradle(App Level)
 ```gradle
 dependencies {
-     implementation 'com.github.AdnanMahida:ZoomImageViewLibrary:[![](https://jitpack.io/v/AdnanMahida/ZoomImageViewLibrary.svg)](https://jitpack.io/#AdnanMahida/ZoomImageViewLibrary)'
+     implementation 'com.github.AdnanMahida:ZoomImageViewLibrary:LatestVersion'
 }
 ```
+
 
 Usage
 ---
