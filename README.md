@@ -19,7 +19,7 @@ allprojects {
 Step 2. Add the dependency build.gradle(App Level)
 ```gradle
 dependencies {
-     implementation 'com.github.AdnanMahida:ZoomImageViewLibrary:1.0.0'
+     implementation 'com.github.AdnanMahida:ZoomImageViewLibrary:[![](https://jitpack.io/v/AdnanMahida/ZoomImageViewLibrary.svg)](https://jitpack.io/#AdnanMahida/ZoomImageViewLibrary)'
 }
 ```
 
